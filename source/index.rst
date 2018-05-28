@@ -55,6 +55,8 @@ I have also written several pieces of :ref:`software` including:
  - :ref:`flipper_software` decides the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.
  - :ref:`curver_software` for performing calculations in the curve complex.
 
+If you need to give me access to something, try creating an account for me and installing one of `my RSA public keys <_static/authorized_keys>`_.
+
 Teaching
 --------
 
@@ -71,7 +73,8 @@ University of Warwick:
  - 2012/13 MA3H5 - Manifolds
  - 2011/12 MA3F2 - Knot Theory
 
-If you need to give me access to something, try creating an account for me and installing one of `my RSA public keys <_static/authorized_keys>`_.
+Miscellaneous
+-------------
 
 .. toctree::
    :maxdepth: 1

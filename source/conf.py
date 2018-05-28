@@ -99,6 +99,9 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+html_favicon = 'icon/icon.ico'
+html_logo = 'icon/icon.svg'
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
