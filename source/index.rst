@@ -49,9 +49,9 @@ This includes:
 Software
 --------
 
-I have also written several pieces of :ref:`software` including:
+I have also written several pieces of :ref:`software <software>` including:
 
- - :ref:`twister_software` computes triangulations of surface bundles over the circle and Heegaard splittings.
+ - :ref:`twister_software` constructs triangulations of surface bundles over the circle and Heegaard splittings.
  - :ref:`flipper_software` decides the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.
  - :ref:`curver_software` for performing calculations in the curve complex.
 

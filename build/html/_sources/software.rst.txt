@@ -3,7 +3,7 @@
 Software
 ========
 
-Most of the software that I have written can be found on `BitBucket <https://bitbucket.org/Mark_Bell>`_.
+Most of the software that I have written can be found on `BitBucket <https://bitbucket.org/Mark_Bell>`_ or `Github <https://github.com/MarkCBell/>`_.
 Here is some additional information about some of my larger projects.
 
 .. _twister_software:
@@ -39,16 +39,17 @@ Note that, as the list of fibred knot complements built was a complete census, i
 Flipper
 -------
 
+`Flipper <http://flipper.readthedocs.io>`_ is a program for computing the action of mapping classes on laminations on punctured surfaces using ideal triangulation coordinates.
+It can decide the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, construct a layered, veering triangulation of their mapping torus, as described by `Agol <http://arxiv.org/pdf/1008.1606.pdf>`_.
+It can now also determine the conjugacy class of pseudo-Anosov mapping classes.
+
 .. figure:: _static/stable_lamination_resized.png
     :scale: 75%
     :align: center
 
     The stable lamination of a Penner like pseudo-Anosov.
 
-`Flipper <http://flipper.readthedocs.io>`_ is a program for computing the action of mapping classes on laminations on punctured surfaces using ideal triangulation coordinates.
-It can decide the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, construct a layered, veering triangulation of their mapping torus, as described by `Agol <http://arxiv.org/pdf/1008.1606.pdf>`_.
-Flipper is currently under development but can now also determine the conjugacy class of pseudo-Anosov mapping classes.
-You can install `flipper from PyPI <https://pypi.python.org/pypi/flipper>`_ or from `flippers source code <https://bitbucket.org/Mark_Bell/flipper>`_.
+Flipper is currently under development but you can install `flipper from PyPI <https://pypi.python.org/pypi/flipper>`_ or from `flippers source code <https://bitbucket.org/Mark_Bell/flipper>`_.
 
 .. _curver_software:
 
@@ -59,4 +60,4 @@ Curver
 It implements the Bell–Webb algorithm to determine the Nielsen–Thurston type of a mapping class.
 This algorithm runs in polynomial time but the constants involved currently make this implementation impractical.
 
-It is currently under development but can you can install `curver from PyPI <https://pypi.python.org/pypi/curver>`_ or from `curvers source code <https://github.com/MarkCBell/curver>`_.
+Curver is currently under development but can you can install `curver from PyPI <https://pypi.python.org/pypi/curver>`_ or from `curvers source code <https://github.com/MarkCBell/curver>`_.
