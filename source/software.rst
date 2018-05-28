@@ -42,7 +42,6 @@ Flipper
 .. figure:: _static/stable_lamination_resized.png
     :scale: 75%
     :align: center
-    :alt: map to buried treasure
 
     The stable lamination of a Penner like pseudo-Anosov.
 
