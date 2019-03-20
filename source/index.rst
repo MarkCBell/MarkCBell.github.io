@@ -2,20 +2,29 @@
 Mark C Bell
 ===========
 
-I am a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
-Previously I was a `J. L. Doob Research Assistant Professor <http://www.math.uiuc.edu/Programs/doob-postdocs.html>`_ at the University of Illinois.
-Before that I was a PhD student under the supervision of `Dr. Saul Schleimer <http://homepages.warwick.ac.uk/~masgar/>`_ at the University of Warwick.
+I was a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
+Before that I was a `J. L. Doob Research Assistant Professor <https://faculty.math.illinois.edu/Programs/doob-postdocs.html>`_ at the University of Illinois.
 
-In the past I have done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
+In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
 
-Conferences
------------
+If you need to give me access to something, try creating an account for me and installing one of `my public keys <_static/authorized_keys>`_.
 
-Recently I have been part of:
+Activities
+----------
 
+Some of the upcoming things that I will be involved in:
+
+ - `Computational Problems in Low-dimensional Topology II <https://groups.oist.jp/manifolds/mini-symposium-2019>`_ at the Okinawa Institute of Science and Technology in April 2019.
+ - Max-Planck-Institut für Mathematik in March 2019.
+
+Some of the things I have previously been involved in:
+
+ - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ in 2019.
+ - `Bristol Topology and Groups Meeting <https://www.wescac.net/scheme9.html>`_ at the University of Bristol in 2018.
  - `Geometry of Teichmüller space and mapping class groups <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/gtsmcg/>`_ at the University of Warwick in 2018.
  - `Computation in geometric topology <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/cgt/>`_ at the University of Warwick in 2017.
  - `Introduction to geometry, dynamics, and moduli in low dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/nonsymposium/igdm/>`_ at the LMS--CMI Research School in 2017.
+ - Junior Geometry & Topology in the midwest at University of Wisconsin--Madison in 2017.
  - `Trisections and low-dimensional topology <https://aimath.org/pastworkshops/trisections.html>`_ at American Institute of Mathematics in 2017.
  - `Redbud Triangulations <https://math.okstate.edu/research/conferences/381-fall-2016-redbud-triangulations-conference>`_ at Oklahoma State in 2016.
  - `Geometry of mapping class groups and Out(Fn) <http://www.msri.org/workshops/771>`_ at MSRI in 2016.
@@ -29,6 +38,47 @@ Recently I have been part of:
  - `Low-dimensional Topology, Geometry, and Dynamics <http://icerm.brown.edu/sp-f13>`_ at ICERM, Brown University in 2013.
  - `Warwick postgraduate seminar <http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/2012-13/>`_.
  - `Geometry and Topology reading seminar <http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/gtreading/>`_. In 2012 it was based on `Word Processing in Groups <http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/gtreading/2012-13/>`_ and in 2013 it was based on the `Bestvina-Handel algorithm <http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/gtreading/2013-14/>`_.
+
+As well as some non-mathematical things:
+
+ - PyCon UK 2017,
+ - Cloud OnAir,
+ - UK Manycore Developer Conference,
+ - Scaling to Petascale Institute 2017,
+ - XSEDE HPC Big Data Workshop,
+ - GPU Programming Using OpenACC, and
+ - Core Algorithms for High Performance Scientific Computing.
+
+I have also given talks at:
+University of Glasgow;
+University of Wisconsin--Madison;
+Eastern Illinois University;
+Brown University;
+University of Toronto;
+Oklahoma State University;
+University of California, Santa Barbra;
+University of California, Davis;
+Mathematical Sciences Research Institute;
+Temple University;
+City University of New York;
+CIAS Paris;
+University of Illinois at Chicago;
+Institute for Advanced Study, Princeton;
+Indiana University -- Purdue University Indianapolis;
+Nihon University;
+Mathematisches Forschungsinstitut Oberwolfach;
+Indiana University;
+University of Illinois;
+The University of Sheffield;
+University of Queensland;
+University of Sydney;
+ICERM;
+Toulouse Mathematics Institute;
+University of Cambridge;
+University of Bristol;
+Imperial College London;
+University of Warwick; and
+University of Southampton.
 
 Writing
 -------
@@ -46,40 +96,13 @@ This includes:
  - Deciding reducibility of mapping classes is in NP
  - The monodromies of homogeneous links
 
-Software
---------
+:ref:`Software <software>`
+--------------------------
 
-I have also written several pieces of :ref:`software <software>` including:
+I have also written several pieces of software including:
 
  - :ref:`twister_software` constructs triangulations of surface bundles over the circle and Heegaard splittings.
  - :ref:`flipper_software` decides the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.
  - :ref:`curver_software` for performing calculations in the curve complex.
 
-If you need to give me access to something, try creating an account for me and installing one of `my RSA public keys <_static/authorized_keys>`_.
-
-Teaching
---------
-
-University of Illinois:
- - Spring 2017 Math 241 - Calculus III
- - Spring 2016 Math 403 - Euclidean Geometry
- - Fall 2015 Math 403 - Euclidean Geometry
-
-University of Warwick:
- - 2014/15 MA3F1 - Introduction to Topology
- - 2013/14 MA3F2 - Knot Theory
- - 2013/14 MA3H6 - Algebraic Topology
- - 2012/13 MA3F2 - Knot Theory
- - 2012/13 MA3H5 - Manifolds
- - 2011/12 MA3F2 - Knot Theory
-
-Miscellaneous
--------------
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-   
-   software
-   teichmuller
-
+:source:index

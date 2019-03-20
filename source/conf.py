@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'markcbell'
+project = 'Mark C Bell'
 copyright = '2018, Mark Bell'
 author = 'Mark Bell'
 
@@ -82,7 +82,11 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'logo_name': 'Mark C Bell',
+    'fixed_sidebar': True,
+    'description': 'Computational topology',
+    }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -98,6 +102,16 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
+html_sidebars = {
+    '**': [
+        'about.html',
+        # 'navigation.html',
+        # 'relations.html',
+        # 'sourcelink.html',
+        'searchbox.html',
+        # 'donate.html',
+    ]
+}
 
 html_favicon = 'icon/icon.ico'
 html_logo = 'icon/icon.svg'
