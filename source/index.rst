@@ -13,12 +13,12 @@ Activities
 ----------
 
 Some of the upcoming things that I will be involved in:
-
- - `Computational Problems in Low-dimensional Topology II <https://groups.oist.jp/manifolds/mini-symposium-2019>`_ at the Okinawa Institute of Science and Technology in April 2019.
- - Max-Planck-Institut für Mathematik in March 2019.
+ - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
 
 Some of the things I have previously been involved in:
 
+ - `Computational Problems in Low-dimensional Topology II <https://groups.oist.jp/manifolds/mini-symposium-2019>`_ at the Okinawa Institute of Science and Technology in April 2019.
+ - Max-Planck-Institut für Mathematik in March 2019.
  - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ in 2019.
  - `Bristol Topology and Groups Meeting <https://www.wescac.net/scheme9.html>`_ at the University of Bristol in 2018.
  - `Geometry of Teichmüller space and mapping class groups <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/gtsmcg/>`_ at the University of Warwick in 2018.
