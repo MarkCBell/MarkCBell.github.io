@@ -14,7 +14,7 @@ Activities
 
 Some of the upcoming things that I will be involved in:
  - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
- - `Geometry & Topology Seminar <http://homepages.warwick.ac.uk/~masgar/Seminar/current_seminar.html>`_ at Warwick Mathematics Institute in May 2019.
+ - `DPMMS <https://www.maths.cam.ac.uk/research/talk/126592>`_ at Cambridge University in July 2019.
 
 Some of the things I have previously been involved in:
 
