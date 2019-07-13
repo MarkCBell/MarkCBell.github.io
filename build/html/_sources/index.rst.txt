@@ -15,7 +15,6 @@ Activities
 Some of the upcoming things that I will be involved in:
  - `Interactions between Geometry, Dynamics and Group Theory <https://people.maths.bris.ac.uk/~jm13806/2020-LMS-SWSW.html>`_ at Bristol University in January 2020.
  - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
- - `DPMMS <https://www.maths.cam.ac.uk/research/talk/126592>`_ at the University of Cambridge University in July 2019.
 
 Some of the things I have previously been involved in:
 
