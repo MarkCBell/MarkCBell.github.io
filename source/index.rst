@@ -14,10 +14,10 @@ Activities
 
 Some of the upcoming things that I will be involved in:
  - `Interactions between Geometry, Dynamics and Group Theory <https://people.maths.bris.ac.uk/~jm13806/2020-LMS-SWSW.html>`_ at Bristol University in January 2020.
- - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
 
 Some of the things I have previously been involved in:
 
+ - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
  - `Computational Problems in Low-dimensional Topology II <https://groups.oist.jp/manifolds/mini-symposium-2019>`_ at the Okinawa Institute of Science and Technology in April 2019.
  - Max-Planck-Institut für Mathematik in March 2019.
  - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ in 2019.
