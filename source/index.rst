@@ -14,6 +14,8 @@ Activities
 
 Some of the upcoming things that I will be involved in:
  - `Interactions between Geometry, Dynamics and Group Theory <https://people.maths.bris.ac.uk/~jm13806/2020-LMS-SWSW.html>`_ at Bristol University in January 2020.
+ - `Algorithms in complex dynamics and mapping class groups <https://icerm.brown.edu/events/ht19-3-acdm/>`_ at ICERM in November 2019.
+ - `Geometry and Analysis: celebrating the mathematics of Pierre Pansu <https://sites.google.com/site/enricoledonne/pansu60/conference>`_ at Oxford University in September 2019.
 
 Some of the things I have previously been involved in:
 
