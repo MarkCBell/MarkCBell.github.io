@@ -89,6 +89,8 @@ Writing
 Some of the things I've written about can be found on the `arXiv <http://arxiv.org/a/bell_m_3>`_.
 This includes:
 
+ - Experimental statistics for Mirzakhani's Theorem
+ - Coding Teichmüller flow using veering triangulations
  - Computing trisections of 4-manifolds
  - Cubical Geometry in the Polygonalisation Complex
  - Polynomial-time algorithms for curve graphs
