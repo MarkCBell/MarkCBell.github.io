@@ -14,8 +14,8 @@ Activities
 
 Some of the upcoming things that I will be involved in:
 
+ - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ at the University of Warwick in March 2020.
  - `Lost in Translation Surfaces <http://math.uni.lu/geometry/sos2020/>`_ at University of Luxembourg in January 2020.
- - `Interactions between Geometry, Dynamics and Group Theory <https://people.maths.bris.ac.uk/~jm13806/2020-LMS-SWSW.html>`_ at Bristol University in January 2020.
 
 Some of the things I have previously been involved in:
 
@@ -112,4 +112,3 @@ I have also written several pieces of software including:
  - :ref:`flipper_software` decides the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.
  - :ref:`curver_software` for performing calculations in the curve complex.
 
-:source:index

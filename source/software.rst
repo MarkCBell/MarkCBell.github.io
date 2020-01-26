@@ -3,7 +3,8 @@
 Software
 ========
 
-Most of the software that I have written can be found on `BitBucket <https://bitbucket.org/Mark_Bell>`_ or `Github <https://github.com/MarkCBell/>`_.
+Most of the software that I have written can be found on `Github <https://github.com/MarkCBell/>`_.
+Some older projects can also be found on `BitBucket <https://bitbucket.org/Mark_Bell>`_.
 Here is some additional information about some of my larger projects.
 
 .. _twister_software:
@@ -30,7 +31,7 @@ One use for these censuses was to search for fibred knot complement monodromies.
 This was done by using Twister to produce censuses of hyperbolic surface bundles over the circle for the surfaces S_{g,1} with :math:`1 \leq g \leq 5` to depths shown in the table.
 Knot complements were then identified and compared to each of the fibred knot complement listed on `knotinfo <http://www.indiana.edu/~knotinfo/>`_ using SnapPy.
 
-As of 18/03/2013, monodromies were found for approximately 63% of the knots listed and as shown in `this summary <https://bitbucket.org/Mark_Bell/bundle-censuses/src>`_.
+As of March 2013, monodromies were found for approximately 63% of the knots listed and as shown in `this summary <https://bitbucket.org/Mark_Bell/bundle-censuses/src>`_.
 This `monodromy data <http://www.indiana.edu/~knotinfo/descriptions/monodromy.html>`_ is now also part of knotinfo.
 Note that, as the list of fibred knot complements built was a complete census, if a monodromy was not found for a particular knot then it cannot have a monodromy consisting of 2 / 10 / 14 / 14 /14 or fewer characters (depending on its three genus).
 
@@ -57,7 +58,9 @@ Curver
 ------
 
 `Curver <http://curver.readthedocs.io>`_ is a program for performing calculations in the curve complex.
-It implements the Bell–Webb algorithm to determine the Nielsen–Thurston type of a mapping class.
+It implements the Bell--Webb algorithm to determine the Nielsen--Thurston type of a mapping class.
 This algorithm runs in polynomial time but the constants involved currently make this implementation impractical.
+It can now also determine the conjugacy class of periodic mapping classes.
 
 Curver is currently under development but can you can install `curver from PyPI <https://pypi.python.org/pypi/curver>`_ or from `curvers source code <https://github.com/MarkCBell/curver>`_.
+
