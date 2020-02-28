@@ -8,12 +8,12 @@
     <title>Mark C Bell &#8212; Mark C Bell  documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/language_data.js"></script>
-    <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="shortcut icon" href="_static/icon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -47,15 +47,15 @@
 
 
 <div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
+  <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="search.html" method="get">
-      <input type="text" name="q" />
+      <input type="text" name="q" aria-labelledby="searchlabel" />
       <input type="submit" value="Go" />
     </form>
     </div>
 </div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
+<script>$('#searchbox').show(0);</script>
         </div>
       </div>
       <div class="documentwrapper">
@@ -69,19 +69,14 @@
 <p>I was a Visiting Fellow at the University of Warwick as part of their <a class="reference external" href="https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/">2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions</a>.
 Before that I was a <a class="reference external" href="https://faculty.math.illinois.edu/Programs/doob-postdocs.html">J. L. Doob Research Assistant Professor</a> at the University of Illinois.</p>
 <p>In the past I have also done work with the <a class="reference external" href="http://www.ncsa.illinois.edu/">National Center for Supercomputing Applications</a> and the <a class="reference external" href="http://www.math.illinois.edu/igl">Illinois Geometry Lab</a>.</p>
+<p>I frequently attend a variety of conferences including <a class="reference external" href="https://www.ucl.ac.uk/~ucahllo/ggse/">Groups and Geometry in the South East</a>.</p>
 <p>If you need to give me access to something, try creating an account for me and installing one of <a class="reference external" href="_static/authorized_keys">my public keys</a>.</p>
 <div class="section" id="activities">
 <h2>Activities<a class="headerlink" href="#activities" title="Permalink to this headline">¶</a></h2>
-<p>Some of the upcoming things that I will be involved in:</p>
-<blockquote>
-<div><ul class="simple">
-<li><p><a class="reference external" href="https://www.ucl.ac.uk/~ucahllo/ggse/">Groups and Geometry in the South East</a> at the University of Warwick in March 2020.</p></li>
-<li><p><a class="reference external" href="http://math.uni.lu/geometry/sos2020/">Lost in Translation Surfaces</a> at University of Luxembourg in January 2020.</p></li>
-</ul>
-</div></blockquote>
 <p>Some of the things I have previously been involved in:</p>
 <blockquote>
 <div><ul class="simple">
+<li><p><a class="reference external" href="http://math.uni.lu/geometry/sos2020/">Lost in Translation Surfaces</a> at University of Luxembourg in January 2020.</p></li>
 <li><p><a class="reference external" href="https://icerm.brown.edu/events/ht19-3-acdm/">Algorithms in complex dynamics and mapping class groups</a> at ICERM in November 2019.</p></li>
 <li><p><a class="reference external" href="https://sites.google.com/site/enricoledonne/pansu60/conference">Geometry and Analysis: celebrating the mathematics of Pierre Pansu</a> at Oxford University in September 2019.</p></li>
 <li><p><a class="reference external" href="https://opendreamkit.org/2019/07/22/SageDays100/">SageDays 100</a> at Bonn University in July 2019.</p></li>
@@ -180,6 +175,7 @@ This includes:</p>
 <li><p><a class="reference internal" href="software.html#twister-software"><span class="std std-ref">Twister</span></a> constructs triangulations of surface bundles over the circle and Heegaard splittings.</p></li>
 <li><p><a class="reference internal" href="software.html#flipper-software"><span class="std std-ref">Flipper</span></a> decides the Nielsen–Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.</p></li>
 <li><p><a class="reference internal" href="software.html#curver-software"><span class="std std-ref">Curver</span></a> for performing calculations in the curve complex.</p></li>
+<li><p><a class="reference internal" href="software.html#bigger-software"><span class="std std-ref">Bigger</span></a> for performing calculations with big mapping classes on infinite-type surfaces.</p></li>
 </ul>
 </div></blockquote>
 </div>
@@ -196,7 +192,7 @@ This includes:</p>
       &copy;2018, Mark Bell.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.0.1</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.2</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |

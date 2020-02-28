@@ -8,12 +8,12 @@
     <title>Software &#8212; Mark C Bell  documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/language_data.js"></script>
-    <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="shortcut icon" href="_static/icon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -47,15 +47,15 @@
 
 
 <div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
+  <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="search.html" method="get">
-      <input type="text" name="q" />
+      <input type="text" name="q" aria-labelledby="searchlabel" />
       <input type="submit" value="Go" />
     </form>
     </div>
 </div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
+<script>$('#searchbox').show(0);</script>
         </div>
       </div>
       <div class="documentwrapper">
@@ -79,7 +79,7 @@ Twister is freely available under the GNU general public license.</p>
 <p>I like to use Twister to build censuses of surface bundles, for example knot complements.
 A <a class="reference external" href="https://bitbucket.org/Mark_Bell/bundle-censuses/src">complete list of censuses</a> I’ve generated can be found on BitBucket and I am happy to discuss generating new censuses that people are interested in.</p>
 <blockquote>
-<div><table class="docutils align-center">
+<div><table class="docutils align-default">
 <colgroup>
 <col style="width: 36%" />
 <col style="width: 7%" />
@@ -118,11 +118,11 @@ Note that, as the list of fibred knot complements built was a complete census, i
 <p><a class="reference external" href="http://flipper.readthedocs.io">Flipper</a> is a program for computing the action of mapping classes on laminations on punctured surfaces using ideal triangulation coordinates.
 It can decide the Nielsen–Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, construct a layered, veering triangulation of their mapping torus, as described by <a class="reference external" href="http://arxiv.org/pdf/1008.1606.pdf">Agol</a>.
 It can now also determine the conjugacy class of pseudo-Anosov mapping classes.</p>
-<div class="figure align-center" id="id5">
+<div class="figure align-center" id="id6">
 <a class="reference internal image-reference" href="_images/stable_lamination_resized.png"><img alt="_images/stable_lamination_resized.png" src="_images/stable_lamination_resized.png" style="width: 355.5px; height: 359.25px;" /></a>
-<p class="caption"><span class="caption-text">The stable lamination of a Penner like pseudo-Anosov.</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-text">The stable lamination of a Penner like pseudo-Anosov.</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
 </div>
-<p>Flipper is currently under development but you can install <a class="reference external" href="https://pypi.python.org/pypi/flipper">flipper from PyPI</a> or from <a class="reference external" href="https://bitbucket.org/Mark_Bell/flipper">flippers source code</a>.</p>
+<p>Flipper is currently under development but you can install <a class="reference external" href="https://pypi.org/project/flipper">flipper from PyPI</a> or from <a class="reference external" href="https://bitbucket.org/Mark_Bell/flipper">flippers source code</a>.</p>
 </div>
 <div class="section" id="curver">
 <span id="curver-software"></span><h2>Curver<a class="headerlink" href="#curver" title="Permalink to this headline">¶</a></h2>
@@ -130,7 +130,13 @@ It can now also determine the conjugacy class of pseudo-Anosov mapping classes.<
 It implements the Bell–Webb algorithm to determine the Nielsen–Thurston type of a mapping class.
 This algorithm runs in polynomial time but the constants involved currently make this implementation impractical.
 It can now also determine the conjugacy class of periodic mapping classes.</p>
-<p>Curver is currently under development but can you can install <a class="reference external" href="https://pypi.python.org/pypi/curver">curver from PyPI</a> or from <a class="reference external" href="https://github.com/MarkCBell/curver">curvers source code</a>.</p>
+<p>Curver is currently under development but can you can install <a class="reference external" href="https://pypi.org/project/curver">curver from PyPI</a> or from <a class="reference external" href="https://github.com/MarkCBell/curver">curvers source code</a>.</p>
+</div>
+<div class="section" id="bigger">
+<span id="bigger-software"></span><h2>Bigger<a class="headerlink" href="#bigger" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://biggermcg.readthedocs.io">Bigger</a> is a program for creating and manipulating big mapping classes.
+It can create mapping classes on infinite-type surfaces and apply these to laminations with infinite support through lazy evaluation.</p>
+<p>Bigger is currently under development but can you can install <a class="reference external" href="https://pypi.org/project/bigger">bigger from PyPI</a> or from <a class="reference external" href="https://github.com/MarkCBell/bigger">biggers source code</a>.</p>
 </div>
 </div>
 
@@ -145,7 +151,7 @@ It can now also determine the conjugacy class of periodic mapping classes.</p>
       &copy;2018, Mark Bell.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.0.1</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.2</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |

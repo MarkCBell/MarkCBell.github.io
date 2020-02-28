@@ -7,18 +7,18 @@ Before that I was a `J. L. Doob Research Assistant Professor <https://faculty.ma
 
 In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
 
+I frequently attend a variety of conferences including `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_.
+
 If you need to give me access to something, try creating an account for me and installing one of `my public keys <_static/authorized_keys>`_.
 
 Activities
 ----------
 
-Some of the upcoming things that I will be involved in:
-
- - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ at the University of Warwick in March 2020.
- - `Lost in Translation Surfaces <http://math.uni.lu/geometry/sos2020/>`_ at University of Luxembourg in January 2020.
+.. Some of the upcoming things that I will be involved in:
 
 Some of the things I have previously been involved in:
 
+ - `Lost in Translation Surfaces <http://math.uni.lu/geometry/sos2020/>`_ at University of Luxembourg in January 2020.
  - `Algorithms in complex dynamics and mapping class groups <https://icerm.brown.edu/events/ht19-3-acdm/>`_ at ICERM in November 2019.
  - `Geometry and Analysis: celebrating the mathematics of Pierre Pansu <https://sites.google.com/site/enricoledonne/pansu60/conference>`_ at Oxford University in September 2019.
  - `SageDays 100 <https://opendreamkit.org/2019/07/22/SageDays100/>`_ at Bonn University in July 2019.
@@ -111,4 +111,5 @@ I have also written several pieces of software including:
  - :ref:`twister_software` constructs triangulations of surface bundles over the circle and Heegaard splittings.
  - :ref:`flipper_software` decides the Nielsen--Thurston type of a given mapping class and, for pseudo-Anosov mapping classes, constructs a layered, veering triangulation of their mapping torus, as described by Agol.
  - :ref:`curver_software` for performing calculations in the curve complex.
+ - :ref:`bigger_software` for performing calculations with big mapping classes on infinite-type surfaces.
 

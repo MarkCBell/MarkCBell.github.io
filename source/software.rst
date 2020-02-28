@@ -50,7 +50,7 @@ It can now also determine the conjugacy class of pseudo-Anosov mapping classes.
 
     The stable lamination of a Penner like pseudo-Anosov.
 
-Flipper is currently under development but you can install `flipper from PyPI <https://pypi.python.org/pypi/flipper>`_ or from `flippers source code <https://bitbucket.org/Mark_Bell/flipper>`_.
+Flipper is currently under development but you can install `flipper from PyPI <https://pypi.org/project/flipper>`_ or from `flippers source code <https://bitbucket.org/Mark_Bell/flipper>`_.
 
 .. _curver_software:
 
@@ -62,5 +62,15 @@ It implements the Bell--Webb algorithm to determine the Nielsen--Thurston type o
 This algorithm runs in polynomial time but the constants involved currently make this implementation impractical.
 It can now also determine the conjugacy class of periodic mapping classes.
 
-Curver is currently under development but can you can install `curver from PyPI <https://pypi.python.org/pypi/curver>`_ or from `curvers source code <https://github.com/MarkCBell/curver>`_.
+Curver is currently under development but can you can install `curver from PyPI <https://pypi.org/project/curver>`_ or from `curvers source code <https://github.com/MarkCBell/curver>`_.
+
+.. _bigger_software:
+
+Bigger
+------
+
+`Bigger <http://biggermcg.readthedocs.io>`_ is a program for creating and manipulating big mapping classes.
+It can create mapping classes on infinite-type surfaces and apply these to laminations with infinite support through lazy evaluation.
+
+Bigger is currently under development but can you can install `bigger from PyPI <https://pypi.org/project/bigger>`_ or from `biggers source code <https://github.com/MarkCBell/bigger>`_.
 
