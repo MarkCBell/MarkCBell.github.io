@@ -7,14 +7,16 @@ Before that I was a `J. L. Doob Research Assistant Professor <https://faculty.ma
 
 In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
 
-I frequently attend a variety of conferences including `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_.
 
 If you need to give me access to something, try creating an account for me and installing one of `my public keys <_static/authorized_keys>`_.
 
 Activities
 ----------
 
-.. Some of the upcoming things that I will be involved in:
+Some of the upcoming things that I will be involved in:
+
+ - `GAGTA 2020 <https://sites.google.com/view/gagta2020>`_ at ICMS, Edinburgh in June 2020.
+ - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ at Oxford University in May 2020.
 
 Some of the things I have previously been involved in:
 
