@@ -15,11 +15,12 @@ Activities
 
 Some of the upcoming things that I will be involved in:
 
- - `GAGTA 2020 <https://sites.google.com/view/gagta2020>`_ at ICMS, Edinburgh in June 2020.
- - `Groups and Geometry in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ at Oxford University in May 2020.
+ - `Geometry and Topology Online <http://homepages.warwick.ac.uk/~masgar/Seminar/current_seminar.html>`_ via zoom on 29th October 2020.
+ - `Global Virtual Sage Days 110 <https://wiki.sagemath.org/days110>`_ online, 29th -- 30th October 2020.
 
 Some of the things I have previously been involved in:
 
+ - `Global Virtual Sage Days 109 <https://wiki.sagemath.org/days109>`_ online in May 2020.
  - `Lost in Translation Surfaces <http://math.uni.lu/geometry/sos2020/>`_ at University of Luxembourg in January 2020.
  - `Algorithms in complex dynamics and mapping class groups <https://icerm.brown.edu/events/ht19-3-acdm/>`_ at ICERM in November 2019.
  - `Geometry and Analysis: celebrating the mathematics of Pierre Pansu <https://sites.google.com/site/enricoledonne/pansu60/conference>`_ at Oxford University in September 2019.
