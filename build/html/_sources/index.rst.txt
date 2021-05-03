@@ -2,11 +2,13 @@
 Mark C Bell
 ===========
 
-I was a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
+I now work in industry, but prior to this I was a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
 Before that I was a `J. L. Doob Research Assistant Professor <https://faculty.math.illinois.edu/Programs/doob-postdocs.html>`_ at the University of Illinois.
 
-In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
+My research focuses on computational problems in low-dimensional topology.
+In particular decision problems in mapping class groups of surfaces.
 
+In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
 
 If you need to give me access to something, try creating an account for me and installing one of `my public keys <_static/authorized_keys>`_.
 
@@ -17,12 +19,12 @@ Activities
 
 Some of the upcoming things that I will be involved in:
 
- - `EuroCG 2021 <http://eurocg21.spbu.ru/>`_, 7th -- 9th April 2021.
- - `Geometry and Groups in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_, 11th December 2020.
- - `Tech Topology Conference <https://etnyre.math.gatech.edu/TechTopology/2020/index.html>`_, 4th -- 6th December 2020.
+ - `Structures on Surfaces <https://members.loria.fr/Monique.Teillaud/collab/SoS/>`_, 25th June 2021.
+ - `Geometry and Groups in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_, June 2021.
 
 Some of the things I have previously been involved in:
 
+ - `Tech Topology Conference <https://etnyre.math.gatech.edu/TechTopology/2020/index.html>`_, 4th -- 6th December 2020.
  - `Geometry and Topology Online <http://homepages.warwick.ac.uk/~masgar/Seminar/current_seminar.html>`_ in October 2020.
  - `Global Virtual Sage Days 110 <https://wiki.sagemath.org/days110>`_ in October 2020.
  - `Global Virtual Sage Days 109 <https://wiki.sagemath.org/days109>`_ in May 2020.
