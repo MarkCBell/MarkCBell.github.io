@@ -5,6 +5,7 @@ Past Activities
 
 Some of the things I have previously been involved in:
 
+ - `Cornell Topology Festival <https://e.math.cornell.edu/sites/topology/2021/schedule.php>`_, 20th -- 21st May 2021.
  - `Tech Topology Conference <https://etnyre.math.gatech.edu/TechTopology/2020/index.html>`_, 4th -- 6th December 2020.
  - `Geometry and Topology Online <http://homepages.warwick.ac.uk/~masgar/Seminar/current_seminar.html>`_ in October 2020.
  - `Global Virtual Sage Days 110 <https://wiki.sagemath.org/days110>`_ in October 2020.
@@ -37,6 +38,7 @@ Some of the things I have previously been involved in:
 
 As well as some non-mathematical things:
 
+ - PyCon US 2021,
  - PyCon UK 2017,
  - Cloud OnAir,
  - UK Manycore Developer Conference,
