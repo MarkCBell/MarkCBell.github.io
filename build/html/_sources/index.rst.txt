@@ -11,10 +11,8 @@ In the past I have also done work with the `National Center for Supercomputing A
 
 Here are some of the upcoming things that I will be involved in:
 
- - `Geometry and Groups in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_, 18th June 2021.
- - `Knots, Surfaces and 3-manifolds <http://www.birs.ca/events/2021/5-day-workshops/21w5094>`_, 20th - 25th June, 2021.
- - `Structures on Surfaces <https://members.loria.fr/Monique.Teillaud/collab/SoS/>`_, 25th June 2021.
- - `EuroPython 2021 <https://ep2021.europython.eu/>`_, July 2021.
+ - `Mathematical Congress of the Americas <https://www.mca2021.org/en/>`_, 12th - 23rd July 2021.
+ - `EuroPython 2021 <https://ep2021.europython.eu/>`_, 28th July - 1st August 2021.
 
 ..  - `Braids <https://icerm.brown.edu/programs/sp-s22/>`_ at ICERM, February -- May 2022.
 

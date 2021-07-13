@@ -5,8 +5,11 @@ Past Activities
 
 Some of the things I have previously been involved in:
 
- - `Cornell Topology Festival <https://e.math.cornell.edu/sites/topology/2021/schedule.php>`_, 20th -- 21st May 2021.
- - `Tech Topology Conference <https://etnyre.math.gatech.edu/TechTopology/2020/index.html>`_, 4th -- 6th December 2020.
+ - `Structures on Surfaces <https://members.loria.fr/Monique.Teillaud/collab/SoS/>`_ in June 2021.
+ - `Knots, Surfaces and 3-manifolds <http://www.birs.ca/events/2021/5-day-workshops/21w5094>`_ in June, 2021.
+ - `Geometry and Groups in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ in June 2021.
+ - `Cornell Topology Festival <https://e.math.cornell.edu/sites/topology/2021/schedule.php>`_ in May 2021.
+ - `Tech Topology Conference <https://etnyre.math.gatech.edu/TechTopology/2020/index.html>`_ in December 2020.
  - `Geometry and Topology Online <http://homepages.warwick.ac.uk/~masgar/Seminar/current_seminar.html>`_ in October 2020.
  - `Global Virtual Sage Days 110 <https://wiki.sagemath.org/days110>`_ in October 2020.
  - `Global Virtual Sage Days 109 <https://wiki.sagemath.org/days109>`_ in May 2020.
