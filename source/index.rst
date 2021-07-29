@@ -5,14 +5,14 @@ Mark C Bell
 My research focuses on computational problems in low-dimensional topology.
 In particular decision problems in mapping class groups of surfaces.
 
-I now work in industry, but prior to this I was a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
-Before that I was a `J. L. Doob Research Assistant Professor <https://faculty.math.illinois.edu/Programs/doob-postdocs.html>`_ at the University of Illinois.
+I now work in industry, but prior to this I was a `J. L. Doob Research Assistant Professor <https://faculty.math.illinois.edu/Programs/doob-postdocs.html>`_ at the University of Illinois and then a Visiting Fellow at the University of Warwick as part of their `2017/18 EPSRC Symposium on Geometry, Topology and Dynamics in Low Dimensions <https://warwick.ac.uk/fac/sci/maths/research/events/2017-18/symposium/>`_.
 In the past I have also done work with the `National Center for Supercomputing Applications <http://www.ncsa.illinois.edu/>`_ and the `Illinois Geometry Lab <http://www.math.illinois.edu/igl>`_.
 
 Here are some of the upcoming things that I will be involved in:
 
- - `Mathematical Congress of the Americas <https://www.mca2021.org/en/>`_, 12th - 23rd July 2021.
  - `EuroPython 2021 <https://ep2021.europython.eu/>`_, 28th July - 1st August 2021.
+ - `Algorithms and Data Structures Symposium <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_, 9th -- 12th August 2021.
+ - `Canadian Conference on Computational Geometry <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_, 9th -- 12th August 2021.
 
 ..  - `Braids <https://icerm.brown.edu/programs/sp-s22/>`_ at ICERM, February -- May 2022.
 

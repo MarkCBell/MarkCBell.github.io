@@ -5,6 +5,7 @@ Past Activities
 
 Some of the things I have previously been involved in:
 
+ - `Mathematical Congress of the Americas <https://www.mca2021.org/en/>`_ in July 2021.
  - `Structures on Surfaces <https://members.loria.fr/Monique.Teillaud/collab/SoS/>`_ in June 2021.
  - `Knots, Surfaces and 3-manifolds <http://www.birs.ca/events/2021/5-day-workshops/21w5094>`_ in June, 2021.
  - `Geometry and Groups in the South East <https://www.ucl.ac.uk/~ucahllo/ggse/>`_ in June 2021.
