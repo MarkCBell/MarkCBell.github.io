@@ -42,6 +42,7 @@ Some of the things I have previously been involved in:
 
 As well as some non-mathematical things:
 
+ - EuroPython 2021,
  - PyCon US 2021,
  - PyCon UK 2017,
  - Cloud OnAir,

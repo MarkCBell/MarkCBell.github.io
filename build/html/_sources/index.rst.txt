@@ -10,9 +10,9 @@ In the past I have also done work with the `National Center for Supercomputing A
 
 Here are some of the upcoming things that I will be involved in:
 
- - `EuroPython 2021 <https://ep2021.europython.eu/>`_, 28th July - 1st August 2021.
  - `Algorithms and Data Structures Symposium <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_, 9th -- 12th August 2021.
  - `Canadian Conference on Computational Geometry <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_, 9th -- 12th August 2021.
+ - `Groups, graphs, geometry and complexity <https://sites.google.com/view/groups-graphs/home>`_, 19th -- 20th August 2021.
 
 ..  - `Braids <https://icerm.brown.edu/programs/sp-s22/>`_ at ICERM, February -- May 2022.
 
