@@ -5,6 +5,9 @@ Past Activities
 
 Some of the things I have previously been involved in:
 
+ - `World of GroupCraft <https://sites.google.com/view/world-of-ggt/>`_ in August 2021.
+ - `Groups, graphs, geometry and complexity <https://sites.google.com/view/groups-graphs/home>`_ in August 2021.
+ - `Canadian Conference on Computational Geometry <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_ in August 2021.
  - `Mathematical Congress of the Americas <https://www.mca2021.org/en/>`_ in July 2021.
  - `Structures on Surfaces <https://members.loria.fr/Monique.Teillaud/collab/SoS/>`_ in June 2021.
  - `Knots, Surfaces and 3-manifolds <http://www.birs.ca/events/2021/5-day-workshops/21w5094>`_ in June, 2021.
