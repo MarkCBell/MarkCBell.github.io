@@ -10,10 +10,9 @@ In the past I have also done work with the `National Center for Supercomputing A
 
 Here are some of the upcoming things that I will be involved in:
 
-  - `Pycon AU 2021 <https://2021.pycon.org.au/>`_ online, 10th -- 12th September 2021.
-  - `Big Surf(aces) Seminar <http://fanoni.perso.math.cnrs.fr/bigsurf.html>`_ online, 15th September 2021.
-  - `Oklahoma Supercomputing Symposium 2021 <http://www.oscer.ou.edu/Symposium2021/>`_ 29th September 2021.
-.. - `Science Gateways Community Institute 2021 Conference <https://sciencegateways.org/web/gateways2021/welcome>`_ online, 19th -- 2st October 2021.
+  - `Science Gateways Community Institute 2021 Conference <https://sciencegateways.org/web/gateways2021/welcome>`_ online, 19th -- 21st October 2021.
+  - `Big Surf(aces) Seminar <http://fanoni.perso.math.cnrs.fr/bigsurf.html>`_ online, 17th November 2021.
+
 ..  - `Braids <https://icerm.brown.edu/programs/sp-s22/>`_ at ICERM, February -- May 2022.
 
 You can also find some of the things I have :ref:`previously been involved with <past>`.
