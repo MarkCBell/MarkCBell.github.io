@@ -10,8 +10,7 @@ In the past I have also done work with the `National Center for Supercomputing A
 
 Here are some of the upcoming things that I will be involved in:
 
-  - `Science Gateways Community Institute 2021 Conference <https://sciencegateways.org/web/gateways2021/welcome>`_ online, 19th -- 21st October 2021.
-  - `Big Surf(aces) Seminar <http://fanoni.perso.math.cnrs.fr/bigsurf.html>`_ online, 17th November 2021.
+  - `Computation and Reconfiguration in Low-Dimensional Topological Spaces <https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22062>`_ at the Leibniz Center for Informatics, 6th -- 11th February 2022.
 
 ..  - `Braids <https://icerm.brown.edu/programs/sp-s22/>`_ at ICERM, February -- May 2022.
 

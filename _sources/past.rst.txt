@@ -5,6 +5,8 @@ Past Activities
 
 Some of the things I have previously been involved in:
 
+ - `Big Surf(aces) Seminar <http://fanoni.perso.math.cnrs.fr/bigsurf.html>`_ in November 2021.
+ - `Science Gateways Community Institute 2021 Conference <https://sciencegateways.org/web/gateways2021/welcome>`_ in October 2021.
  - `World of GroupCraft <https://sites.google.com/view/world-of-ggt/>`_ in August 2021.
  - `Groups, graphs, geometry and complexity <https://sites.google.com/view/groups-graphs/home>`_ in August 2021.
  - `Canadian Conference on Computational Geometry <http://www.fields.utoronto.ca/activities/21-22/WADS-CCCG>`_ in August 2021.
